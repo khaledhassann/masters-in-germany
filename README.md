@@ -21,14 +21,16 @@ Germany is renowned for its high-quality education system, particularly in the f
 ## Dataset Overview <a name="dataset-overview"></a>
 
 The dataset used in this analysis consists of the following columns:
-- Program Name: Name of the Master's program
-- University Name: Name of the university offering the program
-- City: Location of the university
-- State: State where the university is located
-- Discipline: Academic discipline or field of study
-- Duration: Duration of the program in months
+- Degree Type: They're all Master's Degree
+- Course Title: What is this specific course titled
+- Institution Name: Name of the institution offering the program
+- City Name: Location of the institution
+- Subject: The discipline of this specific program
 - Language: Language of instruction
+- Beginning Semester: When does this program begin (Fall, Winter, etc.)
+- Duration: Duration of the program in Semesters
 - Tuition Fees: Fees for the program
+- Detail Link: Link for further details of this program
 
 The dataset is sourced from reputable sources and has been pre-processed to ensure data integrity and accuracy.
 
